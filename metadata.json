@@ -1,0 +1,6 @@
+{
+  "name": "AURA Gold RV - MCX Arbitrage Terminal",
+  "description": "Institutional quantitative terminal for MCX Gold relative-value spreads, calendar rolls, and cost-of-carry arbitrage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
