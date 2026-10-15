@@ -4,10 +4,7 @@
 
 > Hack in Hills Hackathon 2026 | Team Aurumedge | Sponsors: Web3 India, Builder Base, EXIDO
 
-### Team
-- **Palak Vij** - Team Leader, Quant strategy and system design
-- **Chaitanya Tapre** - Data and backend, Bhavcopy pipeline, quality checks
-- **Himanshu Sharnagat** - Dashboard, backtest and research
+- **Himanshu Sharnagat** - Dashboard, backtest and research, app design 
 
 ---
 
